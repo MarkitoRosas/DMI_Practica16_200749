@@ -18,8 +18,8 @@
 
 ## PRÁCTICA 16: Creacion del modelo jugadores e implementacion de busqueda de todos los jugadores existentes.
 
-## Descripción:Una práctica de una API REST desarrollada en Node.js es un enfoque eficiente y versátil para crear servicios web. Esta API ofrece operaciones CRUD (Crear, Leer, Actualizar y Borrar) para gestionar recursos de datos. Utilizando Express.js, se configuran las rutas y controladores correspondientes para cada operación.
+## Descripción:Hemos desarrollado un código que abarca un conjunto de funciones destinadas a manejar diversas operaciones relacionadas con los jugadores en nuestro videojuego. Cada función está diseñada para ejecutar una tarea específica en los datos de un jugador dentro del sistema. Estas funciones toman dos parámetros, rq y rs, que representan la solicitud (request) y la respuesta (response) respectivamente, en el entorno del servidor. Con el objetivo de brindar claridad sobre la acción en curso, cada función registra mensajes descriptivos en la consola. Además, como parte esencial de un API dedicado a la gestión de jugadores, estas funciones responden a solicitudes diversas, que incluyen la creación, búsqueda, actualización, cambio de foto de perfil y eliminación de jugadores.
 
 <p align="center">
-<img src="./src/img/1.png" width="200" alt="Captura de Pantalla 1">
+<img src="./src/img/1.png" width="400" alt="Captura de Pantalla 1">
 
